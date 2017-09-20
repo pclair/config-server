@@ -17,7 +17,7 @@ env: flex
 runtime_config:
    jdk: openjdk8
 resources:
-  memory_gb: 1
+  memory_gb: 2
 manual_scaling:
   instances: 1
 handlers:
